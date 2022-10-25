@@ -8,6 +8,26 @@
         "id": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "type": "Canvas",
         "duration": 167.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-music.json",
+            "label": "Music"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-lyrics.json",
+            "label": "Lyrics"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-references.json",
+            "label": "References"
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/paintings",
