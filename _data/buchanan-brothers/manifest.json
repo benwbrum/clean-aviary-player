@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-lyrics.json",
-            "label": {
-              "none": ["Lyrics"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-references.json",
             "label": {
               "none": ["References"]
