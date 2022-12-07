@@ -21,8 +21,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "138,143"
+          "type": "PointSelector",
+          "t": "138"
         }
       }
     }

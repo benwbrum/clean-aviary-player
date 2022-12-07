@@ -29,8 +29,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "20,25"
+          "type": "PointSelector",
+          "t": "20"
         }
       }
     },
@@ -59,8 +59,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "25,28"
+          "type": "PointSelector",
+          "t": "25"
         }
       }
     },
@@ -81,8 +81,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "29,33"
+          "type": "PointSelector",
+          "t": "29"
         }
       }
     },
@@ -111,8 +111,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "33,37"
+          "type": "PointSelector",
+          "t": "33"
         }
       }
     },
@@ -133,8 +133,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "38,42"
+          "type": "PointSelector",
+          "t": "38"
         }
       }
     },
@@ -163,8 +163,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "42,46"
+          "type": "PointSelector",
+          "t": "42"
         }
       }
     },
@@ -185,8 +185,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "46,51"
+          "type": "PointSelector",
+          "t": "46"
         }
       }
     },
@@ -215,8 +215,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "51,55"
+          "type": "PointSelector",
+          "t": "51"
         }
       }
     },
@@ -251,8 +251,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "73,77"
+          "type": "PointSelector",
+          "t": "73"
         }
       }
     },
@@ -281,8 +281,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "77,82"
+          "type": "PointSelector",
+          "t": "77"
         }
       }
     },
@@ -303,8 +303,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "82,85"
+          "type": "PointSelector",
+          "t": "82"
         }
       }
     },
@@ -333,8 +333,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "85,91"
+          "type": "PointSelector",
+          "t": "85"
         }
       }
     },
@@ -355,8 +355,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "92,107"
+          "type": "PointSelector",
+          "t": "92"
         }
       }
     },
@@ -391,8 +391,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "125,130"
+          "type": "PointSelector",
+          "t": "125"
         }
       }
     },
@@ -413,8 +413,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "130,134"
+          "type": "PointSelector",
+          "t": "130"
         }
       }
     },
@@ -443,8 +443,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "135,138"
+          "type": "PointSelector",
+          "t": "135"
         }
       }
     },
@@ -479,8 +479,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "138,143"
+          "type": "PointSelector",
+          "t": "138"
         }
       }
     },
@@ -501,8 +501,8 @@
       "target": {
         "source": "https://benwbrum.github.io/clean-aviary-player/buchanan-brothers/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "143,150"
+          "type": "PointSelector",
+          "t": "143"
         }
       }
     }
