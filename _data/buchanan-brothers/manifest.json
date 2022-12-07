@@ -12,17 +12,17 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-music.json",
+            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-lyrics.json",
             "label": {
-              "none": ["Music"]
+              "none": ["Lyrics"]
             }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-lyrics.json",
+            "id": "https://benwbrum.github.io/clean-aviary-player/annotations/buchanan-brothers-canvas-1-music.json",
             "label": {
-              "none": ["Lyrics"]
+              "none": ["Music"]
             }
           }
           ,
