@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Oh this world is at a tremble with its strength and mighty pow’r",
+          "value": "Oh this world is at a tremble with its strength and mighty power",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -45,7 +45,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "They’re sending up to heaven to get the brimstone fire",
+          "value": "There sending up to heaven to get the brimstone fire",
           "format": "text/plain",
           "purpose": "commenting"
         },
