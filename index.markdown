@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<p>Hello world</p>
